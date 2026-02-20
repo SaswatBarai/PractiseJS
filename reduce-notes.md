@@ -43,3 +43,5 @@ const groupedByAge = people.reduce((acc, person) => {
 ## Notes
 - The second argument to `reduce` sets the initial value of the accumulator.
 - Useful for transforming arrays into sums, objects, or other structures.
+
+saswat abdqbsdkjwdkqwkdn
